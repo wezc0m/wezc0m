@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a CS student at Jakarta State Polytechnic Studying in Networking Engineering
+- 🌱 I’m currently learning Java and Gamemaker
 
 <!--
 **wezc0m/wezc0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
